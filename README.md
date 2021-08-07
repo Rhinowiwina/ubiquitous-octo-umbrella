@@ -1,3 +1,3 @@
 # ubiquitous-octo-umbrella
-SSH Work tree
-ssh-agent
+SSH tree
+ssh-client mngr
